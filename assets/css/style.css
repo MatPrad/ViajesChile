@@ -8,13 +8,20 @@ main{
     color: white;
 }
 
+hr{
+    background-color:whitesmoke;
+}
 
 .card{
-    background-color: aqua;
+    background-color: cyan;
 }
 
 #presentacion .icono{
-    background-color: aqua;
+    background-color: cyan;
+}
+
+ h2{
+    text-align: center;
 }
 
 
