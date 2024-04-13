@@ -3,3 +3,19 @@
     height: 30px;
 }
 
+main{
+    background-color: black;
+    color: white;
+}
+
+
+.card{
+    background-color: aqua;
+}
+
+#presentacion .icono{
+    background-color: aqua;
+}
+
+
+
